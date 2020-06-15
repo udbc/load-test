@@ -7,7 +7,7 @@ These tests simulate actual end user usage of the application. They are used to 
 * `[number of clients]` - The nuber of concurrent end users to simulate. (Optional: Default is 2)
 * `[number of requests]` - The total number of requests to run before terminating the tests. (Optional: Default is 10)
 
-## Running locally
+### Running locally
 
 ### Requirements 
 * locust `pip install locustio`
